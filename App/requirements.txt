@@ -8,10 +8,3 @@ gradio
 # App dependencies
 flask==2.3.0
 black==23.7.0
-
-pandas
-scikit-learn
-numpy
-matplotlib
-skops
-black
